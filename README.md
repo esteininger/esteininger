@@ -5,5 +5,3 @@ Ethan is a software engineer turned Solutions Architect. He comes from the DC ar
 LinkedIn - [/in/ethansteininger](https://www.linkedin.com/in/ethansteininger/)
 
 Website - [https://ethansteininger.com](https://ethansteininger.com)
-
-Notion - [https://vanlifecoder.com](http://vanlifecoder.com)
