@@ -4,4 +4,4 @@ My name is Ethan, and I'm a software engineer turned Solutions Architect. I hail
 
 LinkedIn - [/in/ethansteininger](https://www.linkedin.com/in/ethansteininger/)
 
-Website - [https://ethansteininger.com](https://ethansteininger.com)
+Portfolio - [https://ethansteininger.com](https://ethansteininger.com)
